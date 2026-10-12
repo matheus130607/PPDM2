@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460102444269",
+    "project_id": "mapa-de-locais-c0801",
+    "storage_bucket": "mapa-de-locais-c0801.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460102444269:android:8d0da47870b2eb6573d8e4",
+        "android_client_info": {
+          "package_name": "br.edu.mapa.mapa_locais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSSvVkqnVBdaseQVJduWcbLFpzyRlV2EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

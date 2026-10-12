@@ -1,0 +1,12 @@
+[
+  {"id":"exemplo-sp-01","nome":"Academia Horizonte (exemplo)","categoria":"Academia","cidade":"São Paulo","avaliacao":4.8,"distancia":1.2,"horario":"06:00 - 22:00","descricao":"Registro didático fictício: musculação e aulas coletivas.","favorito":false},
+  {"id":"exemplo-sp-02","nome":"Restaurante Jardim (exemplo)","categoria":"Restaurante","cidade":"São Paulo","avaliacao":4.5,"distancia":2.4,"horario":"11:00 - 23:00","descricao":"Registro didático fictício: refeições variadas.","favorito":false},
+  {"id":"exemplo-sp-03","nome":"Hospital Central (exemplo)","categoria":"Hospital","cidade":"São Paulo","avaliacao":4.3,"distancia":3.1,"horario":"24 horas","descricao":"Registro didático fictício, não utilizar para decisões de saúde.","favorito":false},
+  {"id":"exemplo-sp-04","nome":"Academia Movimento (exemplo)","categoria":"Academia","cidade":"São Paulo","avaliacao":4,"distancia":4.7,"horario":"06:00 - 21:00","descricao":"Registro didático fictício: treinamento funcional.","favorito":false},
+  {"id":"exemplo-sp-05","nome":"Restaurante Sabores (exemplo)","categoria":"Restaurante","cidade":"São Paulo","avaliacao":4.2,"distancia":5.2,"horario":"12:00 - 22:00","descricao":"Registro didático fictício: cozinha brasileira.","favorito":false},
+  {"id":"exemplo-cp-01","nome":"Academia Energia (exemplo)","categoria":"Academia","cidade":"Campinas","avaliacao":4.7,"distancia":1.4,"horario":"05:30 - 22:00","descricao":"Registro didático fictício: atividade física.","favorito":false},
+  {"id":"exemplo-cp-02","nome":"Restaurante Estação (exemplo)","categoria":"Restaurante","cidade":"Campinas","avaliacao":4.6,"distancia":2,"horario":"11:30 - 22:00","descricao":"Registro didático fictício: almoço e jantar.","favorito":false},
+  {"id":"exemplo-cp-03","nome":"Hospital Vida (exemplo)","categoria":"Hospital","cidade":"Campinas","avaliacao":4.4,"distancia":3.5,"horario":"24 horas","descricao":"Registro didático fictício, não utilizar para decisões de saúde.","favorito":false},
+  {"id":"exemplo-ju-01","nome":"Academia Parque (exemplo)","categoria":"Academia","cidade":"Jundiaí","avaliacao":4.9,"distancia":1.8,"horario":"06:00 - 22:00","descricao":"Registro didático fictício: aulas e musculação.","favorito":false},
+  {"id":"exemplo-ju-02","nome":"Restaurante Serra (exemplo)","categoria":"Restaurante","cidade":"Jundiaí","avaliacao":4.3,"distancia":2.7,"horario":"11:00 - 21:00","descricao":"Registro didático fictício: pratos regionais.","favorito":false}
+]

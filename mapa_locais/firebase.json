@@ -1,0 +1,1 @@
+{"firestore":{"rules":"firestore.rules"},"flutter":{"platforms":{"android":{"default":{"projectId":"mapa-de-locais-c0801","appId":"1:460102444269:android:8d0da47870b2eb6573d8e4","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"mapa-de-locais-c0801","configurations":{"android":"1:460102444269:android:8d0da47870b2eb6573d8e4"}}}}}}
